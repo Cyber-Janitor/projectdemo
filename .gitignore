@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+demofrontend/node_modules/
+demofrontend/build/
+
+# Replit cache (optional if you clone from Replit)
+.replit/
+.replit.db
+
